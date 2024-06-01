@@ -6,4 +6,4 @@ adjust the ascii art with your text editor. same for text, icons etc.
 1. `sh sucklessfetch.sh`
 2. `chmod +x sucklessfetch.sh && ./sucklessfetch.sh`
 # execute sucklessfetch globally
-add the sucklessfetch directory to your $PATH by `export PATH=/path/to/sucklessfetch:$PATH`  
+add the sucklessfetch directory to your $PATH by `export PATH=/path/to/sucklessfetch:$PATH`  then you can execute sucklessfetch globally without ./ after chmodding it.
